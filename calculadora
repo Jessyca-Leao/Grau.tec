@@ -2,16 +2,16 @@
 <html lang="pt-br">
 #inicio cabeca
 <head>
-  <title>Calculadorakat</title>
+  <title>CalculadoraJeje</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <script src="calculadora.js"></script>
+  <script src="calculadora"></script>
 </head>
 #corpo
-<body style="background-color: lightskyblue;">
+<body style="background-color:pink;">
 
   <body>
-    <h1>Calculadorakat 1.0</h1>
+    <h1>CalculadoraJeje 1.0</h1>
     <label for="txtValor1">Valor 1:</label>
     <input type="text" id="txtValor1" placeholder="Digite o primeiro valor">
 
